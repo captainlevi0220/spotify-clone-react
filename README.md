@@ -24,5 +24,9 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 ```
 npx create-next-app -e with-tailwindcss spotify-clone
+npm i @heroicons/react
+npm i next-auth@4.0.0-beta.7
+npm i spotify-web-api-node
 ```
+
 # spotify-clone-react

@@ -5,13 +5,11 @@ import Sidebar from '../components/Sidebar'
 
 const Home: NextPage = () => {
   return (
-    <div className="">
-      <Head>
+    <div className="h-screen overflow-hidden bg-black">
+      {/* <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
-      </Head>
-
-      <h1>This is an awesome Spotify build!</h1>
+      </Head> */}
 
       <main>
         <Sidebar />
